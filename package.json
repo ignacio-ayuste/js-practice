@@ -1,0 +1,19 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "repo for practice typescript and js syntax",
+  "main": "index.js",
+  "repository": "git@github.com:ignacio-ayuste/js-practice.git",
+  "author": "Ignacio Ayuste <ignacioayuste@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "global": "^4.4.0",
+    "ts-node": "^9.0.0",
+    "tsc": "^1.20150623.0",
+    "typescript": "^4.0.2",
+    "lodash": "4.17.15"
+  },
+  "devDependencies": {
+    "@types/lodash": "4.14.149"
+  }
+}
